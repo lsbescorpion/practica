@@ -1,2 +1,0 @@
-# practica
-Practica Laravel API
